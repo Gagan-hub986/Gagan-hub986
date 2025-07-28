@@ -1,37 +1,79 @@
-Here are some points you can use to introduce yourself on GitHub:
+
+### **Introduction for GitHub Profile**
+👋 Hello, I'm Gagan Grover
+
+🎓 Electronics & Communication Engineer | 🤖 RPA Intern (UiPath) | 🛠️ Tech Enthusiast
+
 
 ---
 
-### **Introduction for GitHub Profile**
+🚀 About Me
 
-👋 **Hello! I'm Gagan Grover.**
+I’m a BTech graduate (LEET 2022–2025) in Electronics & Communication Engineering from Vaish College of Engineering, Rohtak (affiliated to MDU). Currently working as an Associate Consultant Intern – RPA Developer at Chiacon Consulting Pvt. Ltd., Gurgaon, where I’m building automation workflows using UiPath.
 
-- 🎓 **BTech Student in Electronics and Communication Engineering**  
-  Currently pursuing my degree at Vaish College of Engineering, with a focus on data analysis and automation.
+I enjoy solving real-world problems through automation, scripting, and structured logic.
 
-- 💡 **Aspiring Data Analyst**  
-  I’m passionate about data analysis, learning advanced techniques, and solving real-world problems
-  using tools like **SQL**, **Python**, **Excel**, and **Power BI**.
 
-- 📈 **Skills & Interests**  
-  - Analyzing and visualizing data to drive actionable insights
-  - Creating efficient and optimized solutions for data management
-  - Data-driven decision-making
+---
 
-- 🔨 **Projects**  
-  I have worked on projects like **Mobile Manufacturer Data Analysis** , **Retail_case_study** and many more types of project
-   where I explored mobile sales data, gaining insights on trends and market behaviors.
+🛠️ Skills & Tools
 
-- 🌱 **Currently Learning**  
-  I’m honing my skills in **SQL**, **Python**, and **Power BI**, and preparing for roles in data analysis.
+RPA Tools: UiPath Studio, Orchestrator (Beginner to Intermediate)
 
-- 🚀 **Goals**  
-  To further enhance my expertise in data analytics and contribute to projects that impact businesses and communities.
+Programming: Python (basic scripting, pandas), SQL (queries, joins, functions)
 
-- ✉️ **Let’s Connect**  
-  Feel free to explore my repositories and reach out for collaboration or opportunities!  
+Tools: MS Excel (formulas, dashboards), HTML (basic), GitHub
 
-<!---
-Gagan-hub986/Gagan-hub986 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+---
+
+📂 Projects
+
+🔁 Metro Smart Card Recharge Automation (UiPath Project)
+Created a UiPath-based automation for smart card recharge through user inputs and condition-based flows.
+
+📊 Mobile Manufacturer Data Analysis (SQL Case Study)
+Explored mobile brand sales using SQL queries to identify patterns, region-based trends, and market leaders.
+
+🛒 Retail Store Case Study (SQL Project)
+Analyzed retail sales data using SQL to find top products, discount impact, and category-wise performance.
+
+🌧️ Rain Alarm Detection Sensor
+A sensor-based hardware project for rain detection using buzzer systems and microcomponents.
+
+
+
+---
+
+🌱 Currently Learning
+
+Advanced workflows in UiPath
+
+Excel automation & data extraction
+
+Troubleshooting and debugging automation logic
+
+
+
+---
+
+🎯 Career Goals
+
+To grow into a skilled RPA Developer
+
+To contribute automation that boosts productivity and accuracy
+
+To explore possibilities combining scripting, tools, and automation
+
+
+
+---
+
+🤝 Let’s Connect
+
+📧 Email: gagangrover986@gmail.com
+🔗 LinkedIn: linkedin.com/in/gagangrover986
+💻 GitHub: github.com/Gagan-hub986
+
+
