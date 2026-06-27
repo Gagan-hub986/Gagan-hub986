@@ -2,7 +2,7 @@
 ### **Introduction for GitHub Profile**
 👋 Hello, I'm Gagan Grover
 
-🎓 Electronics & Communication Engineer | 🤖 RPA Intern (UiPath) | 🛠️ Tech Enthusiast
+🎓 Electronics & Communication Engineer | 🤖 RPA Developer (UiPath) | 🛠️ Tech Enthusiast
 
 
 ---
