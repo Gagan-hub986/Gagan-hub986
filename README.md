@@ -9,7 +9,7 @@
 
 🚀 About Me
 
-I’m a BTech graduate (LEET 2022–2025) in Electronics & Communication Engineering from Vaish College of Engineering, Rohtak (affiliated to MDU). Currently working as an Associate Consultant Intern – RPA Developer at Chiacon Consulting Pvt. Ltd., Gurgaon, where I’m building automation workflows using UiPath.
+I’m a BTech graduate (LEET 2022–2025) in Electronics & Communication Engineering from Vaish College of Engineering, Rohtak (affiliated to MDU). Currently working as an Associate Consultant – RPA Developer at Chiacon Consulting Pvt. Ltd., Gurgaon, where I’m building automation workflows using UiPath.
 
 I enjoy solving real-world problems through automation, scripting, and structured logic.
 
@@ -18,8 +18,7 @@ I enjoy solving real-world problems through automation, scripting, and structure
 
 🛠️ Skills & Tools
 
-RPA Tools: UiPath Studio, Orchestrator (Beginner to Intermediate)
-
+RPA Tools: UiPath Studio Desktop, Orchestrator, Action Centre, Maestro BPMN, UiPath Agent Builder , UiPath Studio Web, API Flows and Integration
 Programming: Python (basic scripting, pandas), SQL (queries, joins, functions)
 
 Tools: MS Excel (formulas, dashboards), HTML (basic), GitHub
@@ -29,6 +28,9 @@ Tools: MS Excel (formulas, dashboards), HTML (basic), GitHub
 ---
 
 📂 Projects
+
+🔁 AI-Powered Incident Management System (UiPath Maestro BPMN Project)
+Created a UiPath-Maestro BPMN AI Powered System that monitor your bots which is running on the Orchestrator and create a zoho ticket if any fails to the responsible person.
 
 🔁 Metro Smart Card Recharge Automation (UiPath Project)
 Created a UiPath-based automation for smart card recharge through user inputs and condition-based flows.
